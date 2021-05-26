@@ -53,9 +53,9 @@ const { sleep, isAfk, cekafk, addafk } = require('./lib/offline')
 
 banChats = true
 offline = false
-targetpc = '6285751056816'
-owner = '6285751056816'
-fake = 'HEXAGONZ'
+targetpc = '6288233625908'
+owner = '6288233625908'
+fake = 'ITSMEABDILLAH'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
